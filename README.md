@@ -1,3 +1,6 @@
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ini0702) 
+
 [![Skills](https://skillicons.dev/icons?i=python,html,css,flask,react,ai)](https://skillicons.dev)
 
 <p align="left"> 
