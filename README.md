@@ -5,7 +5,7 @@
 2023/12 技育CAMPマンスリーハッカソン vol.12 「開発経験共有SNS Exvelop」  
 2024/01 技育CAMPマンスリーハッカソン vol.13  
 
-## 🛠️ Slills:
+## 🛠️ Skills:
 [![Skills](https://skillicons.dev/icons?i=python,html,css,flask,selenium,react,ai)](https://skillicons.dev)
 
 <p align="left"> 
