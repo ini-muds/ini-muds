@@ -1,6 +1,8 @@
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ini0702) 
-
+## 🎉 Events:
+2023/12 技育CAMPマンスリーハッカソン vol.12 「開発経験共有SNS Exvelop」
+2024/01 技育CAMPマンスリーハッカソン vol.13
 [![Skills](https://skillicons.dev/icons?i=python,html,css,flask,react,ai)](https://skillicons.dev)
 
 <p align="left"> 
