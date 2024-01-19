@@ -1,3 +1,7 @@
+## 🧑‍🎓 Profile:
+2023/03 武蔵野大学データサイエンス学部データサイエンス学科　入学  
+武蔵野大学公認団体　「BohPJ同好会」会計/渉外担当  
+
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ini0702) 
 
