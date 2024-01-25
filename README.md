@@ -4,7 +4,8 @@
 武蔵野大学公認団体　「BohPJ同好会」会計/渉外担当  
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ini0702) 
+Twitter→@INI0702  
+Mail→Kurahina0702@gmail.com
 
 ## 🎉 Events:
 2023/12 技育CAMPマンスリーハッカソン vol.12 「開発経験共有SNS Exvelop」  
