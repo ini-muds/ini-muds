@@ -11,7 +11,7 @@ Mail→Kurahina0702@gmail.com
 2023/12 技育CAMPマンスリーハッカソン vol.12 「開発経験共有SNS Exvelop」  
 2024/01 技育CAMPマンスリーハッカソン vol.13 「Amazonトレンド解析 Amatore」  
 2024/02 技育CAMP東京キャラバンハッカソン  
-2024/02 Open Hack U 2024 Tokyo(予定)  
+2024/02 Open Hack U 2024 Tokyo  
 
 ## 🛠️ Skills:
 [![Skills](https://skillicons.dev/icons?i=python,html,css,flask,selenium,react,ai)](https://skillicons.dev)
