@@ -1,11 +1,13 @@
 ## 🧑‍🎓 Profile:
+武蔵野大学1年生  
+学籍番号：2322007  
 2004/07 愛知生まれ、東京育ちで親のルーツは大阪と福岡な人。  
-2023/04 武蔵野大学データサイエンス学部データサイエンス学科　入学　学籍番号：2322007  
+2023/04 武蔵野大学データサイエンス学部データサイエンス学科　入学  
 武蔵野大学公認団体　「BohPJ同好会」会計/渉外担当  
 
 ## 🌐 Socials:
 Twitter→@INI0702  
-Mail→Kurahina0702@gmail.com
+Mail→Kurahina0702@gmail.com　　
 University Mail→s2322007@stu.musashino-u.ac.jp
 
 ## 🎉 Events:
