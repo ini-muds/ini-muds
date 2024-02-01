@@ -6,6 +6,7 @@
 ## 🌐 Socials:
 Twitter→@INI0702  
 Mail→Kurahina0702@gmail.com
+University Mail→s2322007@stu.musashino-u.ac.jp
 
 ## 🎉 Events:
 2023/12 技育CAMPマンスリーハッカソン vol.12 「開発経験共有SNS Exvelop」  
