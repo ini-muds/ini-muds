@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 Twitter→@INI0702  
-Mail→Kurahina0702@gmail.com　　
+Mail→Kurahina0702@gmail.com  
 University Mail→s2322007@stu.musashino-u.ac.jp
 
 ## 🎉 Events:
