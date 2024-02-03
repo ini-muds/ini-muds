@@ -23,4 +23,3 @@ University Mail→s2322007@stu.musashino-u.ac.jp
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ini-muds&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ini-muds&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-![GitHub persona](https://read-413014.an.r.appspot.com/create?username=ini-muds)
