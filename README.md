@@ -1,6 +1,5 @@
 ## 🧑‍🎓 Profile:
 武蔵野大学1年生  
-学籍番号：2322007  
 2004/07 愛知生まれ、東京育ちで親のルーツは大阪と福岡な人。  
 2023/04 武蔵野大学データサイエンス学部データサイエンス学科　入学  
 武蔵野大学公認団体　「BohPJ同好会」会計/渉外担当  
@@ -14,7 +13,8 @@ University Mail→s2322007@stu.musashino-u.ac.jp
 2023/12 技育CAMPマンスリーハッカソン vol.12 「開発経験共有SNS Exvelop」  
 2024/01 技育CAMPマンスリーハッカソン vol.13 「Amazonトレンド解析 Amatore」  
 2024/02 技育CAMPキャラバンハッカソン 東京「ゲームID管理Discord Bot Game ID Manager」  
-2024/03 DEIM2024 第二著者＆聴講「Approximate Inverse Model Explanations(AIME)を用いた不完全データによる機械学習モデル挙動評価手法の実現」  
+2024/03 DEIM2024 第二著者＆聴講「Approximate Inverse Model Explanations(AIME)を用いた不完全データによる機械学習モデル挙動評価手法の実現」 
+技育祭2024【春】学生アンバサダー  
 2024/03 アイフルデータハッカソン　京都    
 
 ## 🛠️ Skills:
