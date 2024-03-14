@@ -15,7 +15,8 @@ University Mail→s2322007@stu.musashino-u.ac.jp
 2024/02 技育CAMPキャラバンハッカソン 東京  
 2024/03 DEIM2024 第二著者で参加  
 2024/03 技育祭2024【春】学生アンバサダー   
-2024/03 アイフルデータハッカソン　京都      
+2024/03 アイフルデータハッカソン　京都  
+2024/03 Xhachathon Vol.2  
 
 ## 🛠️ Skills:
 [![Skills](https://skillicons.dev/icons?i=python,html,css,flask,selenium,ai)](https://skillicons.dev)
