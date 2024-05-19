@@ -6,8 +6,8 @@
 
 ## 🌐 Socials:
 Twitter→@INI0702  
-Mail→Kurahina0702@gmail.com  
-University Mail→s2322007@stu.musashino-u.ac.jp
+Contact→Kurahina0702@gmail.com  
+Wantedly→[!(https://www.wantedly.com/id/INI0702)]  
 
 ## 🎉 Events:
 2023/12 技育CAMPマンスリーハッカソン vol.12  
