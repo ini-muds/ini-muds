@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 Twitter→@INI0702  
 Contact→Kurahina0702@gmail.com  
-Wantedly→[!(https://www.wantedly.com/id/INI0702)]  
+Wantedly→https://www.wantedly.com/id/INI0702  
 
 ## 🎉 Events:
 2023/12 技育CAMPマンスリーハッカソン vol.12  
